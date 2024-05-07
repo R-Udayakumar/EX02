@@ -1,5 +1,5 @@
-# EXP No : 2                                                                                                                                                                         
-# DATE : 07/03/2024
+# EX No : 02                                                                                                                                                                         
+# DATE : 07-03-2024
 
 # AIM:
 To study and implement DDL commands and different types of constraints.
@@ -230,6 +230,7 @@ WHERE email = 'abc@gmail.com';
 ![image](https://github.com/Mena-Rossini/DBMS_EX_02/assets/102855266/4d5d3d9e-a668-4044-92c9-673eb159e5b4)
 
 # RESULT:
-Thus, we studied and implemented DDL commands and different types of constraints. 
+Thus,To study and implement DDL commands and different types of constraints was implemented successfully.
+ 
 
 
